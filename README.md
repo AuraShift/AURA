@@ -7,7 +7,7 @@ Because the entire application is bundled directly inside a client-side layout, 
 
 ---
 
-**Website** - https://haneel-kumar.github.io/AURA/image-transformer.html
+**Website** - [https://haneel-kumar.github.io/AURA/image-transformer.html](https://aurashift.github.io/AURA/image-transformer.html)
 
 ## 📸 Screenshots
 
